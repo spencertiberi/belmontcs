@@ -1,0 +1,16 @@
+language: ruby
+
+rvm: 2.2
+
+script: make build
+
+deploy:
+  # deploy to GitHub Pages
+  provider: pages
+  local_dir: _site
+  name: spencertiberi
+  email: spencertiberi@gmail.com
+  github_token: $GITHUB_TOKEN
+  skip_cleanup: true
+  on:
+    branch: master
