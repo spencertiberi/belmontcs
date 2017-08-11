@@ -7,4 +7,4 @@ title: CS50 AP Playbook
 
 ## Stay fly!
 
-Derp is the fly way to kiss the sky? Fun times and building monuments to zoos.
+Derp is the fly way to kiss the sky? Fun times and building monuments to zoos. Xyq.
