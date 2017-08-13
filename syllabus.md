@@ -2,9 +2,6 @@
 layout: left
 ---
 
-<img src="compscionelogo6tight
-.png" alt="comsci.one" width="400">
-
 # tl;dr Syllabus
 
 ## Goal
@@ -15,7 +12,7 @@ Above all, the goal of compsci.one is to empower you to become informed consumer
 
 
 |Week|What are we doing?|
-|--:|--|
+|--|--|
 |**0**|Intro to what it means to be a computer scientist|
 |**1**|How computers work: binary, memory, and hardware|
 |**2**|Everyday algorithms and pseudocode|
