@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS50 AP Playbook
+title: compsci.one
 ---
 
 # compsci.one

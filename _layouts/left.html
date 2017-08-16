@@ -10,6 +10,7 @@ layout: default
             {% capture title %}{% include toc_pure_liquid.html html=content h_min=1 h_max=1 %}{% endcapture %}
             {{ title | replace: '<code class="highlighter-rouge">', '`' | replace: '</code>', '`' | strip_html | markdownify }}
         </h1>
+            <h3>Contents</h3>
         <nav>
 
                 <!-- https://allejo.io/blog/a-jekyll-toc-in-liquid-only/ -->
