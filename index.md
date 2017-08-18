@@ -3,16 +3,7 @@ layout: default
 title: compsci.one
 ---
 
-# compsci.one
+# Welcome to compsci.one!
+This is the home of Belmont Hill School's introduction to Computer Science course compsci.one!
 
-## Stay fly!
-
-[syllabus](syllabus)
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+hello, world!

@@ -46,6 +46,15 @@ To ensure an engaging and productive classroom environment, it will be beneficia
 
 We will determine appropriate community Norms in addition to the above listed in class as needed.
 
+## Grades
+
+|Section|Weighting|
+|--|--|
+|Problems|50%|
+|Quizzes|25%|
+|Final Project|15%|
+|Final Exam|10%|
+
 ## Academic Honesty
 This course’s philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course’s material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
