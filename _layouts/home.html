@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-sm-3">
+        <div class="recent"> Recent Updates </div> <br>
+          <ul>
+              {% for post in site.posts %}
+                  {% if forloop.index < 4 %}
+                      <li class="showcase" style="background-image: url('{{ post.image }}')">
+                          <h3> <a href=".{{ post.url }}">{{ post.title }}</a> </h3>
+                          <h5> Category: {{post.categories}} </h5>
+                      </li>
+                  {% endif %}
+              {% endfor %}
+          </ul>
+    </div>
+    <div class="col-sm-9">
+            {{ content }}
+    </div>
+</div>

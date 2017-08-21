@@ -2,4 +2,8 @@
 layout: default
 ---
 
+{% assign image = "/assets/images/" | relative_url | append: page.image %}
+<div class="container-fluid post-title" style="background-image: url({{ image }});">
+  {{page.title}}
+</div>
 {{ content }}
