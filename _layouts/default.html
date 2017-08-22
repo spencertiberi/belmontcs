@@ -29,7 +29,7 @@
                     <nav class="navbar navbar-inverse navbar-fixed-top">
                     <!--    <div class="container-fluid"> -->
 
-                            <div class="navbar-header">
+                      
                                 <!--TODO
                                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
                                     <span class="sr-only">Toggle navigation</span>
@@ -39,7 +39,7 @@
                                 </button>
                                 -->
                                 <a class="navbar-brand" href="{{ "/" | relative_url }}"><img src="{{ "/compscionelogo7tight" | relative_url }}.png" alt="comsci.one" width="200"></a>
-                            </div>
+
                             <!--TODO
                             <div class="collapse navbar-collapse" id="navbar">
                                 <form class="navbar-form navbar-right">
@@ -50,9 +50,22 @@
                                 </form>
                               -->
                       <!--      </div> -->
+                        <div class="dropdown">
+                            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                                &#9776
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-right" role="menu">
+                                <li><a href="{{ "/" | relative_url }}">home</a></li>
+                                <li><a href="{{ "/problems" | relative_url }}">problems</a></li>
+                                <li><a href="{{ "/notes" | relative_url }}">notes</a></li>
+                                <li><a href="{{ "/about" | relative_url }}">about</a></li>
+                                <li><a href="{{ "/syllabus" | relative_url }}">syllabus</a></li>
+                            </ul>
+                        </div>
                     </nav>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-sm-12">
                     <nav class="navbar-fixed-nav">

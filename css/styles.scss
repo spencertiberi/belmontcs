@@ -28,12 +28,18 @@ cp node_modules/primer-css/build.css _sass/
     .col-sm-9 h1 {
         display: none; /* hide other title */
     }
+    .navbar-fixed-nav {
+      display: none;
+    }
 }
 @media (min-width: 768px) {
     .toc h1 {
         white-space: nowrap; /* confine to one line so title doesn't invisibly wrap */
         visibility: hidden; /* hide title above TOC but preserve its height */
+    }
 
+    .dropdown{
+      display: none;
     }
 }
 .col-sm-12 nav + h1[id] {
@@ -104,6 +110,11 @@ nav .navbar-form {
   text-decoration: none;
 }
 
+.navbar-fixed-nav a:hover {
+  color: #22557D;
+  text-decoration: none;
+}
+
 /* prevent word breaks */
 .markdown-body {
     word-wrap: normal;
@@ -162,4 +173,27 @@ iframe, img {
   background-color: #4D3054;
   color: #FFF2E1;
   font-size: 30px;
+}
+
+.dropdown {
+  z-index: 1080;
+  float: right;
+}
+
+.dropdown-menu {
+    border-radius: 0px;
+    border: none;
+}
+
+.btn{
+    border-radius: 0px;
+    background: none;
+    border: none;
+    font-size: 25px;
+    color: #FFF2E1;
+}
+
+.btn:hover{
+    background: none;
+    color: #4D3054;
 }
