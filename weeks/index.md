@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Notes
+# Weeks
 
 <ul>
-    {% assign notes = site.posts | where: 'categories', 'notes' %}
-    {% for post in notes %}
+    {% assign weeks = site.posts | where: 'categories', 'weeks' %}
+    {% for post in weeks %}
         {% assign pic_root = "/assets/images/" | relative_url %}
         <li>
             <div class="showcase-list">
