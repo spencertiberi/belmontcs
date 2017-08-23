@@ -10,7 +10,7 @@ layout: default
         {% assign pic_root = "/assets/images/" | relative_url %}
         <li>
             <div class="showcase-list">
-                <img src="{{ pic_root | append: post.image }}">
+                <img src="{{ pic_root | append: post.image }}" onerror="this.style.display='none'">
                 <a href="..{{ post.url }}">{{ post.title }}</a>
                 <br>
                 <div class="date">{{post.date | date: "%A, %B %d, %Y" }}</div>
