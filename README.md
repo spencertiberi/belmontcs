@@ -7,6 +7,7 @@ Home of compsci.one at Belmont Hill School.
 - Try different color navbar
     - Potentially use JS to have day/night css
 - Update syllabus
+- Change dropdown clicked color
 
 ## Installation
 
