@@ -11,6 +11,7 @@ deploy:
   name: spencertiberi
   email: spencertiberi@gmail.com
   github_token: $GITHUB_TOKEN
+  fqdn: compsci.one
   skip_cleanup: true
   on:
     branch: master
