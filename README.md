@@ -1,21 +1,25 @@
-# belmontcs
+# compsci.one
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes` and your sass in `_sass`. To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+Home of compsci.one at Belmont Hill School.
 
-TODO: Delete this and the text above, and describe your gem
+## TODO
+
+- Try different color navbar
+    - Potentially use JS to have day/night css
+- Update syllabus
 
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "belmontcs"
+gem "compsci.one"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: belmontcs
+theme: compsci.one
 ```
 
 And then execute:
@@ -24,7 +28,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install belmontcs
+    $ gem install compsci.one
 
 ## Usage
 
@@ -45,5 +49,3 @@ When your theme is released, only the files in `_layouts`, `_includes`, and `_sa
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-# belmontcs
