@@ -7,5 +7,3 @@ title: compsci.one
 This is the home of Belmont Hill School's introduction to Computer Science course compsci.one!
 
 hello, world!
-
-[link](about)

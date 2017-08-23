@@ -8,7 +8,7 @@ layout: default
           <ul>
               {% for post in site.posts %}
                   {% if forloop.index < 4 %}
-                      <li class="showcase" style="background-image: url('{{ post.image }}')">
+                      <li class="showcase" style="background-image: url('assets/images/{{ post.image }}')">
                           <h3> <a href=".{{ post.url }}">{{ post.title }}</a> </h3>
                           <h5> Category: {{post.categories}} </h5>
                       </li>
