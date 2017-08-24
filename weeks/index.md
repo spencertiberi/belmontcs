@@ -4,7 +4,7 @@ layout: default
 
 # Weeks
 
-<ul>
+<ul class="displayer">
     {% assign weeks = site.posts | where: 'categories', 'weeks' %}
     {% for post in weeks %}
         {% assign pic_root = "/assets/images/" | relative_url %}

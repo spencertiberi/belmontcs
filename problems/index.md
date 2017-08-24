@@ -4,7 +4,7 @@ layout: default
 
 # Problems
 
-<ul>
+<ul class="displayer">
     {% assign problems = site.posts | where: 'categories', 'problems' %}
     {% for post in problems %}
         {% assign pic_root = "/assets/images/" | relative_url %}

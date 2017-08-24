@@ -152,14 +152,14 @@ ul li a:hover{
 }
 
 .recent {
-  padding-left: 30px;
-  text-align: left;
+  text-align: center;
   font-size: 24px;
 }
 
 .showcase {
     position: relative;
-    height: 125px;
+    width: 100%;
+    height: 100px;
     background-color: #4D3054;
     overflow: hidden;
 }
@@ -188,8 +188,14 @@ ul li a:hover{
 }
 
 ul {
-    padding-left: 40px;
     list-style: none;
+}
+
+.displayer {
+    display: inline;
+    margin-left: 1em;
+    padding: 0;
+    list-style-type: none;
 }
 
 /* post title */
@@ -228,8 +234,8 @@ ul {
 .showcase-list {
     position: relative;
     list-style: none;
-    max-width: 75%;
-    height: 200px;
+    max-width: 100%;
+    height: 150px;
     color: #FFF2E1;
     background-color: #4D3054;
     overflow: hidden;
@@ -252,6 +258,7 @@ ul {
 }
 
 .showcase-list img {
+
     position: absolute;
     width: 100%;
     height: auto;

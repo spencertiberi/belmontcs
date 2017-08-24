@@ -4,6 +4,7 @@ defaults:
       path: ""
     values:
       layout: default
+      date: "now"
 description: CS at Belmont Hill School.
 exclude:
   - "application.py"

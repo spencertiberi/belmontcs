@@ -4,7 +4,7 @@ layout: default
 
 # Notes
 
-<ul>
+<ul class="displayer">
     {% assign notes = site.posts | where: 'categories', 'notes' %}
     {% for post in notes %}
         {% assign pic_root = "/assets/images/" | relative_url %}
