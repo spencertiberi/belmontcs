@@ -5,7 +5,10 @@ layout: default
 {% assign max_recent = 4 %}
 
 <div class="row">
-    <div class="col-sm-3">
+    <div class="col-sm-8">
+            {{ content }}
+    </div>
+    <div class="col-sm-4">
         <div class="recent"> Recent Updates </div>
           <ul class="displayer">
               {% for post in site.posts %}
@@ -20,8 +23,5 @@ layout: default
                   {% endif %}
               {% endfor %}
           </ul>
-    </div>
-    <div class="col-sm-9">
-            {{ content }}
     </div>
 </div>

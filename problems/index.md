@@ -1,8 +1,8 @@
 ---
-layout: default
+title: "Problems"
+layout: descript
+description: Problems to be conquered
 ---
-
-# Problems
 
 <ul class="displayer">
     {% assign problems = site.posts | where: 'categories', 'problems' %}

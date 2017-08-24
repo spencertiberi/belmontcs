@@ -28,18 +28,25 @@ cp node_modules/primer-css/build.css _sass/
     .col-sm-9 h1 {
         display: none; /* hide other title */
     }
-    .navbar-fixed-nav {
-      display: none;
+
+    .dis-nav {
+        display: none;
+        visibility: collapse;
+    }
+
+    .container-fluid .markdown-body {
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
 @media (min-width: 768px) {
-    .toc h1 {
+    .toc .title {
         white-space: nowrap; /* confine to one line so title doesn't invisibly wrap */
         visibility: hidden; /* hide title above TOC but preserve its height */
     }
 
-    .dropdown{
-      display: none;
+    .dropdown {
+        display: none;
     }
 }
 .col-sm-12 nav + h1[id] {
@@ -69,7 +76,16 @@ cp node_modules/primer-css/build.css _sass/
         overflow-y: auto;
         position: fixed;
         right: 0;
-        top: 0px;
+        top: 15px;
+    }
+
+    .descript {
+        bottom: 0;
+        left: 0;
+        overflow-y: auto;
+        position: fixed;
+        right: 0;
+        top: 80px;
     }
 }
 
@@ -82,13 +98,32 @@ nav .navbar-form {
     box-shadow: none;
 }
 
+.toc {
+    color: #FFF2E1;
+    background-color: #22557D;
+}
+
 .toc a {
-    color: #22557D;
+    color: #FFF2E1;
 }
 
 .toc a:hover {
     color: #7299B5;
     text-decoration: none;
+}
+
+.toc ul {
+    list-style-type: none;
+}
+
+/* description */
+.descript {
+    color: #FFF2E1;
+    background-color: #22557D;
+}
+
+.title {
+    font-size: 34px;
 }
 
 /* navbar styles */
@@ -185,10 +220,6 @@ ul li a:hover{
     position: absolute;
     width: 100%;
     height: auto;
-}
-
-ul {
-    list-style: none;
 }
 
 .displayer {
@@ -292,4 +323,14 @@ iframe, img {
 .btn:hover{
     background: none;
     color: #4D3054;
+}
+
+.dropdown .btn:active {
+   background: #4D3054;
+   color: #FFF2E1;
+}
+
+.dropdown .btn:target {
+   background: #4D3054;
+   color: #FFF2E1;
 }

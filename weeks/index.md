@@ -1,9 +1,8 @@
 ---
-layout: default
+title: "Weeks"
+layout: descript
+description: Overview of weekly class activities
 ---
-
-# Weeks
-
 <ul class="displayer">
     {% assign weeks = site.posts | where: 'categories', 'weeks' %}
     {% for post in weeks %}

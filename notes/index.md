@@ -1,8 +1,8 @@
 ---
-layout: default
+title: "Notes"
+layout: descript
+description: Presentation materials used in class
 ---
-
-# Notes
 
 <ul class="displayer">
     {% assign notes = site.posts | where: 'categories', 'notes' %}
