@@ -13,7 +13,7 @@ description: Problems to be conquered
                 <img src="{{ pic_root | append: post.image }}" onerror="this.style.display='none'">
                 <a href="..{{ post.url }}">{{ post.title }}</a>
                 <br>
-                <div class="date">{{post.date | date: "%A, %B %d, %Y" }}</div>
+                <div class="date"> Due: {{post.due | date: "%A, %B %d, %Y %T" }}</div>
             </div>
         </li>
     {% endfor %}

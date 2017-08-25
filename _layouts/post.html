@@ -8,7 +8,13 @@ layout: default
     <div class="txt">
         {{page.title}}
         <div class="date">
-            {{ page.date | date: "%A, %B %d, %Y" }}
+            {% if page.categories contains 'problems' %}
+                Due: {{ page.due | date: "%A, %B %d, %Y %T" }}
+            {% elsif page.categories contains 'weeks' %}
+                Week of {{ page.weekof | date: "%A, %B %d, %Y" }}
+            {% else %}
+                {{ page.date | date: "%A, %B %d, %Y" }}
+            {% endif %}
         </div>
     </div>
 </div>
