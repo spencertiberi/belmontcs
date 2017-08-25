@@ -12,19 +12,18 @@ Above all, the goal of compsci.one is to empower you to become informed consumer
 
 compsci.one will meet four days a week in the Amon-Meyer Science Center in Room S-5 (lower level) during E block.
 
+<!--
 ## Schedule
-
-
 |Week|What are we doing?|
 |--|--|
-|**0**|Intro to what it means to be a computer scientist|
+|**0**|What it means to be a computer scientist?|
 |**1**|How computers work: binary, memory, and hardware|
-|**2**|Everyday algorithms and pseudocode|
+|**2**|Everyday algorithms, pseudocode, and abstraction|
 |**3**|Conditionals, logic tables, and loops|
-|**4**|Abstraction of repeated ideas and functions|
-|**5**|Intro to Scratch: conditionals, loops, variables and functions|
-|**6**|Creating your own scratch project|
-|**7**|Intro to an IDE and Python: conditionals, loops, and variables|
+|**4**|Intro to Scratch: conditionals, loops, variables and functions|
+|**5**|Creating your own scratch project|
+|**6**|Intro to an IDE and Python: conditionals, loops, and variables|
+|**6**|Intro to an IDE and Python: conditionals, loops, and variables|
 |**8**|Functions in Python|
 |**9**|Using libraries in Python|
 |**10**|Input/output using Python|
@@ -34,28 +33,60 @@ compsci.one will meet four days a week in the Amon-Meyer Science Center in Room 
 |**14**|Final project: Raspberry Pi Gameboy|
 |**15**|Final project: Raspberry Pi Gameboy|
 |**16**|Where to go from here? Self-learning, Github, and beyond|
-
-## Expectations
-
-
+-->
 ## Grades
+
+Grades in compsci.one are not determined by where you end up at the conclusion of the semester relative to your classmates. Rather, grades reflect your cumulative growth relative to yourself in week 0.
+
+### Weighting
 
 |Section|Weighting|
 |--|--|
-|Problems|50%|
-|Quizzes|25%|
+|Programming Problems|40%|
+|Tests|20%|
+|Quizzes|15%|
 |Final Project|15%|
-|Final Exam|10%|
+|Written Assignments|10%|
+
+### Problem Grading Scheme
+
+#### Three Axes
+
+Problems in compsci.one are graded along the following three axes:
+
+* **Correctness:** the extent to which code is consistent with specifications and free of bugs.
+* **Design:** the extent to which code is written well (i.e., clearly, efficiently, elegantly, and/or logically)
+* **Style:** the extent to which code is readable (i.e., commented and intended with variables aptly named)
+
+#### Five Point Scale
+
+When grading for the 3 axes, compsci.one uses a five point grading scale for determining marks as follows:
+
+| Level | Description                                |
+|-------|--------------------------------------------|
+| **5** | Best: Essentially no room for improvement. |
+| **4** | Better: Minor room for improvement.        |
+| **3** | Good: Some room for improvement.           |
+| **2** | Fair: Ample room for improvement.          |
+| **1** | Poor                                       |
+| **0** | No Effort                                  |
+
+<!--
+#### Grade Calculation Formula
+
+Each problem will be assigned a grade out of 30 points using the following formula:
+
+`3 * Correctness + 2 * Design + Style`
+-->
 
 ## Required Materials
 
+- Laptop
+- Notebook
+
 ## Classroom Environment
 
-To ensure an engaging and productive classroom environment, it will be beneficial to consider the following.
-
-### Community Norms
-
-We will determine appropriate community Norms in addition to the above listed in class as needed.
+We will collectively determine appropriate community norms in class.
 
 ## Academic Honesty
 The academic honesty policy of compsci.one mirrors that of Harvard's introduction to CS course, CS50.  It can be summed up as "be reasonable."
