@@ -1,3 +1,7 @@
+
+# Source: David Malan. https://github.com/cs50/manual50
+
+
 import os
 
 from flask import Flask, abort, redirect, request, send_file

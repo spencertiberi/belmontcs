@@ -1,5 +1,9 @@
 ---
 ---
+/*
+Many thanks to David Malan. https://github.com/cs50/manual50
+*/
+
 
 /*
 gem install bootstrap-sass -v 3.3.7
@@ -32,6 +36,10 @@ cp node_modules/primer-css/build.css _sass/
     .dis-nav {
         display: none;
         visibility: collapse;
+    }
+
+    .pics {
+        display: none;
     }
 
     .container-fluid .markdown-body {
@@ -124,6 +132,11 @@ nav .navbar-form {
 
 .title {
     font-size: 34px;
+}
+
+.abt-title{
+    font-size: 34px;
+    color: #EE786D;
 }
 
 /* navbar styles */
@@ -333,4 +346,18 @@ iframe, img {
 .dropdown .btn:target {
    background: #4D3054;
    color: #FFF2E1;
+}
+
+/* about format */
+.resume {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #EE786D;
+    color: #FFF2E1;
+    img {
+        width: 100%;
+        height: auto;
+    }
 }
