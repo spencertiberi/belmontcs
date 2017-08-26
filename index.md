@@ -2,10 +2,6 @@
 layout: home
 title: compsci.one
 ---
-
-# Welcome to compsci.one!
-This is the home of Belmont Hill School's introduction to Computer Science course compsci.one!
-
-hello, world!
-
-<img src="assets/images/csonelvsign.png">
+<div class="row">
+    <img class="welcome" src="/assets/images/csonelvsigncrop.png">
+</div>
