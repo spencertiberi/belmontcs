@@ -8,6 +8,10 @@ layout: left
 
 Above all, the goal of compsci.one is to empower you to become informed consumers and producers of technology.
 
+## Contact
+
+[tiberi@belmonthill.org](mailto:tiberi@belmonthill.org)
+
 ## Location and Time
 
 compsci.one will meet four days a week in the Amon-Meyer Science Center in Room S-5 (lower level) during E block.
