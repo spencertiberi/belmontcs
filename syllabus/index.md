@@ -10,35 +10,26 @@ Above all, the goal of compsci.one is to empower you to become informed consumer
 
 ## Contact
 
-(617)484-4410 ext. 273
+(617)484-4410 ext. 273 <br>
 [tiberi@belmonthill.org](mailto:tiberi@belmonthill.org)
 
 ## Location and Time
 
 compsci.one will meet four days a week in the Amon-Meyer Science Center in Room S-5 (lower level) during E block.
 
-<!--
+## Extra Help
+
+I'm available for help on many X blocks, and right after the last class of the day. However, feel free to reach out to me to schedule time.
+
 ## Schedule
-|Week|What are we doing?|
+|Chapter|What are we doing?|
 |--|--|
-|**0**|What it means to be a computer scientist?|
-|**1**|How computers work: binary, memory, and hardware|
-|**2**|Everyday algorithms, pseudocode, and abstraction|
-|**3**|Conditionals, logic tables, and loops|
-|**4**|Intro to Scratch: conditionals, loops, variables and functions|
-|**5**|Creating your own scratch project|
-|**6**|Intro to an IDE and Python: conditionals, loops, and variables|
-|**6**|Intro to an IDE and Python: conditionals, loops, and variables|
-|**8**|Functions in Python|
-|**9**|Using libraries in Python|
-|**10**|Input/output using Python|
-|**11**|Creating your own python program|
-|**12**|Introduction to the Internet and Simple html|
-|**13**|Using CSS to make more interesting websites|
-|**14**|Final project: Raspberry Pi Gameboy|
-|**15**|Final project: Raspberry Pi Gameboy|
-|**16**|Where to go from here? Self-learning, Github, and beyond|
--->
+|**0**|What it means to be a computer scientist? Algorithmic Thinking.|
+|**1**|Scratch: a drag-and-drop language for coding|
+|**2**|Python: a powerful multi-use language|
+|**3**|Final project|
+|**4**|Where to go from here? Self-learning, Github, and beyond|
+
 ## Grades
 
 Grades in compsci.one are not determined by where you end up at the conclusion of the semester relative to your classmates. Rather, grades reflect your cumulative growth relative to yourself in week 0.
@@ -91,7 +82,22 @@ Each problem will be assigned a grade out of 30 points using the following formu
 
 ## Classroom Environment
 
-We will collectively determine appropriate community norms in class.
+### Late Work
+
+No late work will be allowed except in cases of absences due to:
+
+1. Illness
+2. Family Emergency
+
+Due dates will be posted on all assignments for clarity sake.
+
+### Collaboration
+
+A healthy collaborative atmosphere is crucial for a Computer Science classroom. Be sure to both keep academic integrity in mind and support one another.
+
+### Respect
+
+Be sure to respect the classroom, any materials we use, and, of course, each other.
 
 ## Academic Honesty
 The academic honesty policy of compsci.one mirrors that of Harvard's introduction to CS course, CS50.  It can be summed up as "be reasonable."

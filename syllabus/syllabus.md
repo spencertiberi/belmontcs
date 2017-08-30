@@ -97,7 +97,22 @@ Each problem will be assigned a grade out of 30 points using the following formu
 
 ## Classroom Environment
 
-We will collectively determine appropriate community norms in class.
+### Late Work
+
+No late work will be allowed except in cases of absences due to:
+
+1. Illness
+2. Family Emergency
+
+Due dates will be posted on all assignments for clarity sake.
+
+### Collaboration
+
+A healthy collaborative atmosphere is crucial for a Computer Science classroom. Be sure to both keep academic integrity in mind and support one another.
+
+### Respect
+
+Be sure to respect the classroom, any materials we use, and, of course, each other.
 
 ## Academic Honesty
 The academic honesty policy of CS50 AP mirrors that of Harvard's.  It can be summed up as "be reasonable."
