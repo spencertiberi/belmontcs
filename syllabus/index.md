@@ -22,6 +22,7 @@ compsci.one will meet four days a week in the Amon-Meyer Science Center in Room 
 I'm available for help on many X blocks, and right after the last class of the day. However, feel free to reach out to me to schedule time.
 
 ## Schedule
+
 |Chapter|What are we doing?|
 |--|--|
 |**0**|What it means to be a computer scientist? Algorithmic Thinking.|
