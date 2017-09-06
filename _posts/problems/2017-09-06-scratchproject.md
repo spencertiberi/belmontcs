@@ -45,7 +45,9 @@ Your mission is, quite simply, to have fun with Scratch and implement a project 
 
 3. Your project must use at least one condition, one loop, and one variable.
 
-4. Your project must use at least one sound.
+4. Your project must use at least one custom "define" block.
+
+5. Your project must use at least one sound.
 
 Your project should be more complex than some basic examples, but it can be less complex than, say, Pikachu’s Pastry Catch and Ivy’s Hardest Game. As such, your project should probably use at least a few dozen puzzle pieces overall.
 
