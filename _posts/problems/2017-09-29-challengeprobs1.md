@@ -27,7 +27,7 @@ What is your second number? 2.5
 2. Right click or two-finger click to download file from your IDE.
 3. Save **calculator.py** in your google drive.
 
-## Problem 2: Calculator
+## Problem 2: Schedule
 
 Create a program that prompts the user for day of the week and time of day (hours and minutes in military time) and determines if the user is supposed to be in school at BH (assume an 8:00 am to 4:45 pm schedule).
 
