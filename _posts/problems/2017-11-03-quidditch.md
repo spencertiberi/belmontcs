@@ -20,5 +20,4 @@ goal_num = int(input("Number of times your chasers got the quaffle through a hoo
 snitch_caught = int(input("Did your team's seeker catch the snitch? Enter 1 if true, 0 otherwise: "))
 score = final_score(goal_num, snitch_caught)
 print("Your team's final score is: " + score)
-int main(void)
 ```
