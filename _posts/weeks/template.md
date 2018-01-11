@@ -1,8 +1,8 @@
 ---
 layout: post
 title:
-date: 201X-XX-XX 00:00:00 -0400
-weekof: 201X-XX-XX
+date: 2018-XX-XX 00:00:00 -0400
+weekof: 2018-XX-XX
 categories: weeks
 image:
 ---
