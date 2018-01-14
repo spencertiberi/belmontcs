@@ -28,8 +28,9 @@ I'm available for help on many X blocks, and right after the last class of the d
 |**0**|What it means to be a computer scientist? Algorithmic Thinking.|
 |**1**|Scratch: a drag-and-drop language for coding|
 |**2**|Python: a powerful multi-use language|
-|**3**|Final project|
-|**4**|Where to go from here? Self-learning, Github, and beyond|
+|**3**|HTML/CSS: the skeleton of all webpages|
+|**4**|Final project|
+|**5**|Where to go from here? Self-learning, Github, and beyond|
 
 ## Grades
 
@@ -39,11 +40,11 @@ Grades in compsci.one are not determined by where you end up at the conclusion o
 
 |Section|Weighting|
 |--|--|
-|Programming Problems|40%|
-|Tests|20%|
-|Quizzes|15%|
+|Assignments|50%|
 |Final Project|15%|
-|Written Assignments|10%|
+|Tests|15%|
+|Final Exam|10%|
+|Quizzes|10%|
 
 ### Problem Grading Scheme
 
@@ -85,7 +86,7 @@ Each problem will be assigned a grade out of 30 points using the following formu
 
 ### Late Work
 
-No late work will be allowed except in cases of absences due to:
+**No late work** will be allowed except in cases of absences due to:
 
 1. Illness
 2. Family Emergency
@@ -94,7 +95,7 @@ Due dates will be posted on all assignments for clarity sake.
 
 ### Collaboration
 
-A healthy collaborative atmosphere is crucial for a Computer Science classroom. Be sure to both keep academic integrity in mind and support one another.
+A healthy collaborative atmosphere is crucial for a Computer Science classroom. Be sure to both keep academic integrity in mind and support one another. You should be submitting your own work.
 
 ### Respect
 
