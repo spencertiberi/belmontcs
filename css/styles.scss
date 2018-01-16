@@ -6,12 +6,14 @@ Many thanks to David Malan. https://github.com/cs50/manual50
 
 :root {
     --header-bg-color: #EE786D;
-    --navbar-bg-color: #C5645C;
+    --navbar-bg-color: #EE786D;
+    //C5645C
     --light-txt-color: #FFF2E1;
     --nav-link-color: #22557D;
     --content-bg-color: #22557D;
     --highlight-txt-color: #EE786D;
     --post-bg-color: #4D3054;
+    --bg: #FFFAF4;
 }
 
 /*
@@ -110,6 +112,10 @@ cp node_modules/primer-css/build.css _sass/
     }
 }
 
+body {
+  background-color: var(--bg);
+}
+
 /* stylize TOC */
 nav {
     font-size: smaller;
@@ -117,6 +123,10 @@ nav {
 
 nav .navbar-form {
     box-shadow: none;
+}
+
+.active {
+    color: var(--nav-link-color);
 }
 
 .toc {
