@@ -13,6 +13,7 @@ Many thanks to David Malan. https://github.com/cs50/manual50
     --content-bg-color: #22557D;
     --highlight-txt-color: #EE786D;
     --post-bg-color: #4D3054;
+    --post-hilight-color: #EE786D;
     --bg: #FFFAF4;
 }
 
@@ -203,6 +204,11 @@ nav .navbar-form {
     word-wrap: normal;
 }
 
+li .showcase:hover {
+   background-color: var(--post-hilight-color);
+   text-decoration: none;
+}
+
 /* md format color */
 ul li a{
     color: var(--highlight-txt-color);
@@ -210,6 +216,7 @@ ul li a{
 
 ul li a:hover{
     color: var(--header-bg-color);
+    text-decoration: none;
 }
 
 /* front page post showcase */
@@ -239,7 +246,7 @@ ul li a:hover{
     color: var(--light-txt-color);
 }
 
-.showcase a:hover, .showcase-list a:hover {
+.showcase-list a:hover {
     color: var(--header-bg-color);
     text-decoration: none;
 }
