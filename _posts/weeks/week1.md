@@ -1,0 +1,15 @@
+---
+layout: post
+title:
+date: 2018-01-21 00:00:00 -0400
+weekof: 2018-01-22
+categories: weeks
+image:
+---
+
+|Date                        |Classwork|Homework|
+|----------------------------|---------|--------|
+|Monday 1/22/2018            | Pseudocode Continued <br><br> Binary Bulbs | Binary Practice |
+|Tuesday 1/23/2018           | Intro to Scratch | Scratch0 |
+|Thursday 1/25/2018 | Scratch Project | Work on Scratch Project |
+|Friday 1/26/2018            | Binary and Scratch Quiz <br><br> Scratch Project | Finish Scratch Project |
